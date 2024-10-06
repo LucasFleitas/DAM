@@ -39,6 +39,7 @@ window.show()
 
 app.exec()
 
+```
 ### Ejercicio 1. Añade componentes diferentes a los widget y muestrame la pantalla
 
 ```python
@@ -87,6 +88,7 @@ window.show()
 
 app.exec()
 
+```
 ## Ejemplo Layout 2
 
 ```python
@@ -130,7 +132,7 @@ window.show()
 
 app.exec()
 
-
+```
 ### Ejercicio 2. pon un  Qlabel y un QLineEdit
 
 ```python
@@ -180,6 +182,7 @@ window.show()
 app.exec()
 
 
+```
 ## Ejemplo de Layout 3 mezcla de Horizontal y Vertical
 
 ```python
@@ -236,7 +239,7 @@ window.show()
 
 app.exec()
 
-
+```
 ### Ejercicio modifica el nested layout a otra configuración con los colores ;)
 
 ```python
