@@ -1,0 +1,11 @@
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\bin\Debug\FormulariosCSV.exe.config
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\bin\Debug\FormulariosCSV.exe
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\bin\Debug\FormulariosCSV.pdb
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.csproj.AssemblyReference.cache
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.Form1.resources
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.Properties.Resources.resources
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.csproj.GenerateResource.cache
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.csproj.CoreCompileInputs.cache
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.exe
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.pdb
+C:\Users\DAM\source\repos\FormulariosCSV\FormulariosCSV\obj\Debug\FormulariosCSV.Form2.resources

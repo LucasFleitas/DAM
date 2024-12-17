@@ -1,0 +1,10 @@
+C:\Users\DAM\source\repos\CustomControls\CustomControls\bin\Debug\CustomControls.exe.config
+C:\Users\DAM\source\repos\CustomControls\CustomControls\bin\Debug\CustomControls.exe
+C:\Users\DAM\source\repos\CustomControls\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.csproj.AssemblyReference.cache
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.Form1.resources
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.exe
+C:\Users\DAM\source\repos\CustomControls\CustomControls\obj\Debug\CustomControls.pdb

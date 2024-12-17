@@ -1,0 +1,10 @@
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\bin\Debug\EjemplodeClase1.exe.config
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\bin\Debug\EjemplodeClase1.exe
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\bin\Debug\EjemplodeClase1.pdb
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.csproj.AssemblyReference.cache
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.Form1.resources
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.Properties.Resources.resources
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.csproj.GenerateResource.cache
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.csproj.CoreCompileInputs.cache
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.exe
+C:\Users\DAM\source\repos\EjemplodeClase1\EjemplodeClase1\obj\Debug\EjemplodeClase1.pdb

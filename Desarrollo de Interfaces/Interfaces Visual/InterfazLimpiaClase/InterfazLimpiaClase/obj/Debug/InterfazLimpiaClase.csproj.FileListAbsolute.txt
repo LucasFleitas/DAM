@@ -1,0 +1,12 @@
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\bin\Debug\InterfazLimpiaClase.exe.config
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\bin\Debug\InterfazLimpiaClase.exe
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\bin\Debug\InterfazLimpiaClase.pdb
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.csproj.AssemblyReference.cache
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.Properties.Resources.resources
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.csproj.GenerateResource.cache
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.csproj.CoreCompileInputs.cache
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.exe
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.pdb
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.Main.resources
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.Form2.resources
+C:\Users\DAM\source\repos\InterfazLimpiaClase\InterfazLimpiaClase\obj\Debug\InterfazLimpiaClase.formularioHijo.resources

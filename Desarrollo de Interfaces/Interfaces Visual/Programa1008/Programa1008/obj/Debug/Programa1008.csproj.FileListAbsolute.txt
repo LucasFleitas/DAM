@@ -1,0 +1,10 @@
+C:\Users\DAM\source\repos\Programa1008\Programa1008\bin\Debug\Programa1008.exe.config
+C:\Users\DAM\source\repos\Programa1008\Programa1008\bin\Debug\Programa1008.exe
+C:\Users\DAM\source\repos\Programa1008\Programa1008\bin\Debug\Programa1008.pdb
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.csproj.AssemblyReference.cache
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.Form1.resources
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.Properties.Resources.resources
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.csproj.GenerateResource.cache
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.csproj.CoreCompileInputs.cache
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.exe
+C:\Users\DAM\source\repos\Programa1008\Programa1008\obj\Debug\Programa1008.pdb

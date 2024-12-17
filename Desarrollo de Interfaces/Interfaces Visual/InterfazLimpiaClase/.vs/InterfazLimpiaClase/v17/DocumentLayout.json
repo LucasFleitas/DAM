@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|c:\\users\\dam\\source\\repos\\interfazlimpiaclase\\interfazlimpiaclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|solutionrelative:interfazlimpiaclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\interfazlimpiaclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|solutionrelative:interfazlimpiaclase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\interfazlimpiaclase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|solutionrelative:interfazlimpiaclase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\interfazlimpiaclase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|solutionrelative:interfazlimpiaclase\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\interfazlimpiaclase\\formulariohijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{197AD52C-AB38-450A-9E75-8EDA16D0C166}|InterfazLimpiaClase\\InterfazLimpiaClase.csproj|solutionrelative:interfazlimpiaclase\\formulariohijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazLimpiaClase\\Form1.cs",
+              "ToolTip": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazLimpiaClase\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:41:36.821Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form2.cs",
+              "RelativeDocumentMoniker": "InterfazLimpiaClase\\Form2.cs",
+              "ToolTip": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form2.cs",
+              "RelativeToolTip": "InterfazLimpiaClase\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:23:04.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form2.cs",
+              "RelativeDocumentMoniker": "InterfazLimpiaClase\\Form2.cs",
+              "ToolTip": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazLimpiaClase\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:32:49.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formularioHijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\formularioHijo.cs",
+              "RelativeDocumentMoniker": "InterfazLimpiaClase\\formularioHijo.cs",
+              "ToolTip": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\formularioHijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InterfazLimpiaClase\\formularioHijo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:11:25.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfazLimpiaClase\\Form1.cs",
+              "ToolTip": "C:\\Users\\DAM\\source\\repos\\InterfazLimpiaClase\\InterfazLimpiaClase\\Form1.cs",
+              "RelativeToolTip": "InterfazLimpiaClase\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:59:24.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
